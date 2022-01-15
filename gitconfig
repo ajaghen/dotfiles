@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ajaghen.hs@gmail.com
+	name = ajagheh seeneevassen
